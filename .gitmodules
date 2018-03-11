@@ -1,0 +1,6 @@
+[submodule "CardsGenerator/projectory-golang"]
+	path = CardsGenerator/projectory-golang
+	url = https://github.com/TheIndifferent/projectory-golang.git
+[submodule "CardsGenerator/projectory-java"]
+	path = CardsGenerator/projectory-java
+	url = https://github.com/TheIndifferent/projectory-java.git
